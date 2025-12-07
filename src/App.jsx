@@ -27,12 +27,12 @@ import {
 // ==========================================
 const firebaseConfig = {
   // 去 firebase console -> 项目设置 -> 常规 -> 下方的 "SDK 设置和配置" 复制这些内容
-  apiKey: "你的apiKey",
-  authDomain: "你的项目ID.firebaseapp.com",
-  projectId: "你的项目ID",
-  storageBucket: "你的项目ID.appspot.com",
-  messagingSenderId: "你的数字ID",
-  appId: "你的AppID"
+  apiKey: "AIzaSyDEw_6qGTVClENRgdv85SwR2QOXcfi1aL0",
+  authDomain: "wishlist-2024.firebaseapp.com",
+  projectId: "wishlist-2024",
+  storageBucket: "wishlist-2024.firebasestorage.app",
+  messagingSenderId: "601860203098",
+  appId: "1:601860203098:web:b3d9eba481eab2530eee63"
 };
 
 // 初始化 Firebase
